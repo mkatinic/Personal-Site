@@ -1,0 +1,56 @@
+.projects {
+    position: relative;
+    width: 30%;
+    left: 60%;
+    top: 50%;
+    transform: translateY(-50%);
+
+    h2 {
+        font-size: 55px;
+        font-family: "Coolvetica";
+        color: #ffd700;
+        font-weight: 400;
+        margin-top: 0;
+        position: relative;
+        margin-bottom: 40px;
+        left: 10px;
+        animation: pulse 1s 1s;
+    }
+
+    a {
+        text-decoration: none;
+        color: #ffd700;
+    }
+}
+
+@media only screen and (max-width: 1350px) {
+    .about-page {
+        position: relative;
+        height: 100vh;
+
+        .text-zone {
+            top: 27%;
+        }
+
+        .projects {
+            width: 80%;
+            left: 10%;
+            padding-bottom: 30px;
+        }
+    }
+
+}
+
+@media only screen and (max-width: 980px) {
+    .about-page {
+        .text-zone {
+            margin-top: 20px;
+        }
+
+        .projects {
+            height: 100%;
+            top: 55%;
+            padding-bottom: 60px;
+        }
+    }
+}
