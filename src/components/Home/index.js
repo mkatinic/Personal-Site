@@ -13,7 +13,7 @@ const Home = () => {
                 aspiring software engineer!
                 </h1>
                 <h2>Diploma in Computer Studies, Langara College</h2>
-                <Link to="/contact" className='flat-button'>CONTACT ME</Link>
+                <Link to="/Personal-Site/contact" className='flat-button'>CONTACT ME</Link>
             </div>
         </div>
     )
