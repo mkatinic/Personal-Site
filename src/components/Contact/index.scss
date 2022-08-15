@@ -1,3 +1,13 @@
+.contact-page {
+    .text-zone {
+        position: relative;
+        left: 10%;
+        width: 35%;
+        vertical-align: middle;
+        height: 100%;
+    }
+}
+
 .contact-form {
     width: 100%;
     margin-top: 20px;
@@ -115,9 +125,13 @@
 
 @media only screen and (max-width: 1350px)  {
     .contact-page {
-        margin-top: 20px;
+        .text-zone {
+            margin-left: auto;
+            margin-right: auto;
+            left: 0;
+        }
     }
-    
+
     .info-map {
         display: none;
     }
@@ -130,4 +144,13 @@
         display: none;
     }
 
+}
+
+@media only screen and (max-width: 980px) {
+    .contact-page {
+        
+        .text-zone {
+            width: 90%;
+        }
+    }
 }

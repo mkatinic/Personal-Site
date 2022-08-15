@@ -1,12 +1,29 @@
+.about-page {
+    margin-left: 100px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+
+    .text-zone {
+        width: 80%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
+
 .projects {
-    position: relative;
-    width: 30%;
-    left: 60%;
-    top: 50%;
-    transform: translateY(-50%);
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    img {
+        height: 75px;
+        width: auto;
+    }
 
     h2 {
-        font-size: 55px;
+        font-size: 35px;
         font-family: "Coolvetica";
         color: #ffd700;
         font-weight: 400;
@@ -23,34 +40,11 @@
     }
 }
 
-@media only screen and (max-width: 1350px) {
-    .about-page {
-        position: relative;
-        height: 100vh;
-
-        .text-zone {
-            top: 27%;
-        }
-
-        .projects {
-            width: 80%;
-            left: 10%;
-            padding-bottom: 30px;
-        }
-    }
-
-}
-
 @media only screen and (max-width: 980px) {
     .about-page {
-        .text-zone {
-            margin-top: 20px;
-        }
-
-        .projects {
-            height: 100%;
-            top: 55%;
-            padding-bottom: 60px;
-        }
+        display: block;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
     }
 }

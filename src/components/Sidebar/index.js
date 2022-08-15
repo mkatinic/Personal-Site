@@ -9,13 +9,13 @@ const Sidebar = () => {
         <div className='nav-bar'>
         
             <nav>
-                <NavLink exact="true" activeclassname="active" to="/Personal-Site">
+                <NavLink to="/Personal-Site">
                     <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
                 </NavLink>
-                <NavLink exact="true" activeclassname="active" className="about-link" to="/Personal-Site/about">
+                <NavLink className="about-link" to="/Personal-Site/about">
                     <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
                 </NavLink>
-                <NavLink exact="true" activeclassname="active" className="contact-link" to="/Personal-Site/contact">
+                <NavLink className="contact-link" to="/Personal-Site/contact">
                     <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
                 </NavLink>
             </nav>
