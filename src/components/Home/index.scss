@@ -57,12 +57,14 @@
 }
 
 @media only screen and (max-width: 1430px) {
-    .headshot {
-        display: none;
-    }
+
 }
 
 @media only screen and (max-width: 980px)  {
+    .headshot {
+        display: none;
+    }
+    
     .home-page {
         width: 100%;
 
