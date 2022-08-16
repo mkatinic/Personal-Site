@@ -17,7 +17,7 @@
 
 .about-page, .contact-page {
     h1 {
-        font-size: 55px;
+        font-size: 75px;
         font-family: "Coolvetica";
         color: #ffd700;
         font-weight: 400;
@@ -29,13 +29,12 @@
     }
 
     p {
-        font-size: 14px;
+        font-size: 16px;
         margin-bottom: 20px;
-        color: white;
+        color: rgba(255, 255, 255, 0.781);
         font-family: sans-serif;
         letter-spacing: 1.5px;
         min-width: fit-content;
-        opacity: .78;
         animation: pulse 1s 1.3s;
     }
 

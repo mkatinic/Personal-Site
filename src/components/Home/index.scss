@@ -5,7 +5,7 @@
         position: absolute;
         right: 20%;
         top: 20%;
-        height: 50%;
+        height: 80%;
         border-radius: 50%;
     }
     
@@ -26,7 +26,7 @@
     }
 
     h2 {
-        color: #8d8d8d;
+        color: rgba(255, 255, 255, 0.781);
         margin-top: 20px;
         font-weight: 400;
         font-size: 25px;
@@ -56,15 +56,13 @@
     }
 }
 
-@media only screen and (max-width: 1430px) {
-
-}
-
-@media only screen and (max-width: 980px)  {
+@media only screen and (max-width: 1110px) {
     .headshot {
         display: none;
     }
-    
+}
+
+@media only screen and (max-width: 980px)  {
     .home-page {
         width: 100%;
 

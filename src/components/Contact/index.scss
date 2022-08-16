@@ -108,16 +108,17 @@
 
 .map-wrap {
     background: rgba(8, 253, 216, .1);
-    float: right;
     width: 50%;
     margin-right: 3%;
     height: 100%;
 }
 
 .leaflet-container {
-    width: 100%;
+    width: 50%;
     height: 100%;
-    position: relative;
+    margin-left: 48%;
+    top: 0;
+    position: absolute;
     opacity: 0;
     animation: backInRight 1s 1.2s;
     animation-fill-mode: forwards;
