@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Personal-Site/static/css/main.13805d3c.css",
-    "main.js": "/Personal-Site/static/js/main.a944a788.js",
+    "main.css": "/Personal-Site/static/css/main.106e25ba.css",
+    "main.js": "/Personal-Site/static/js/main.dad65efc.js",
     "static/media/profile.JPG": "/Personal-Site/static/media/profile.4e1d1b43d47e59651983.JPG",
     "static/media/helvetica-neu.ttf": "/Personal-Site/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/Personal-Site/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/Personal-Site/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "static/media/barGraph.webp": "/Personal-Site/static/media/barGraph.7706d8481358567c0807.webp",
     "index.html": "/Personal-Site/index.html",
-    "main.13805d3c.css.map": "/Personal-Site/static/css/main.13805d3c.css.map",
-    "main.a944a788.js.map": "/Personal-Site/static/js/main.a944a788.js.map"
+    "main.106e25ba.css.map": "/Personal-Site/static/css/main.106e25ba.css.map",
+    "main.dad65efc.js.map": "/Personal-Site/static/js/main.dad65efc.js.map"
   },
   "entrypoints": [
-    "static/css/main.13805d3c.css",
-    "static/js/main.a944a788.js"
+    "static/css/main.106e25ba.css",
+    "static/js/main.dad65efc.js"
   ]
 }
