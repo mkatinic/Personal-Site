@@ -10,7 +10,7 @@ const Home = () => {
             <div className='text-zone'>
                 <h1>Hi, <br /> 
                 I'm Markan,<br />
-                aspiring software engineer!
+                Software Developer!
                 </h1>
                 <h2>Diploma in Computer Studies, Langara College</h2>
                 <Link to="/Personal-Site/contact" className='flat-button'>CONTACT ME</Link>

@@ -8,14 +8,15 @@ const About = () => {
             <div className='text-zone'>
                 <h1>About Me</h1>
                 <p>
-                    I recently graduated with a Computer Studies Diploma from Langara College, 
-                    and I am excited to begin my career as a software developer. Langara has 
-                    taught me various technologies, and I consider myself adept in C++, Java, 
-                    JavaScript, Data Structures and Algorithms, and front end development. I 
+                    I graduated with a Computer Studies Diploma from Langara College in 2022.
+                    Langara has taught me various technologies, and I am quite grateful for the 
+                    education I have, I truly believe it set me up to succeed in a work environment. I 
                     am extremely passionate about computer science and I try to seize every 
                     oppourtunity to learn and better myself as a developer. Since graduation I 
-                    have continued my learning independantly, through personal projects and 
-                    online courses. As I am just starting my career in computer sciences, the 
+                    have been working as a software developer at XPRT Integration, our tech 
+                    stack is mainly Objective-C and Python. I consider myself lucky, I have 
+                    gotten to experience every step of the software developemt lifecycle, and 
+                    have gained valuable experience while at XPRT. Prior to starting at Langara the 
                     majority of work experience I have has been in the trades. Spending years 
                     working as a millwright in the oil industry was essential in developing my 
                     tenacious work ethic and communication skills, which I take with me everywhere 
