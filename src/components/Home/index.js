@@ -9,10 +9,9 @@ const Home = () => {
             
             <div className='text-zone'>
                 <h1>Hi, <br /> 
-                I'm Markan,<br />
-                Software Developer!
+                I'm Markan!
                 </h1>
-                <h2>Diploma in Computer Studies, Langara College</h2>
+                <h2>Software Develoepr @ Xprt Integration</h2>
                 <Link to="/Personal-Site/contact" className='flat-button'>CONTACT ME</Link>
             </div>
         </div>
