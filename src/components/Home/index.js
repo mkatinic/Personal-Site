@@ -11,7 +11,7 @@ const Home = () => {
                 <h1>Hi, <br /> 
                 I'm Markan!
                 </h1>
-                <h2>Software Develoepr @ Xprt Integration</h2>
+                <h2>Software Developer @ Xprt Integration</h2>
                 <Link to="/Personal-Site/contact" className='flat-button'>CONTACT ME</Link>
             </div>
         </div>
